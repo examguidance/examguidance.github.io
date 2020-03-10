@@ -1,6 +1,6 @@
 ---
 title: Question Bank
-category: JNU
+category: PU
 order: 1
 ---
 
