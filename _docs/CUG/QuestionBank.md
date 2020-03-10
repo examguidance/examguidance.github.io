@@ -1,6 +1,6 @@
 ---
 title: Question Bank
-category: JNU
+category: CUG
 order: 1
 ---
 
