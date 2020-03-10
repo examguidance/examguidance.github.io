@@ -2,6 +2,7 @@
 title: Video
 category: Media
 order: 2
+youtubeId: pOFT4xB3I_c
 ---
 
 Share video to your friends! Send videos from your computer, phone, camera or YouTube.
@@ -15,4 +16,4 @@ To share a video:
 > Videos can use up a lot of bandwidth so be aware of your mobile data.
 
 ![https://www.youtube.com/watch?v=pOFT4xB3I_c](//placehold.it/800x600)
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=pOFT4xB3I_c" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
