@@ -15,9 +15,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: Exam Guidance
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://github.com/examguidance/examguidance.github.io 
 
 # -----
 # Build
