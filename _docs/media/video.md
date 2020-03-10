@@ -15,5 +15,6 @@ To share a video:
 
 > Videos can use up a lot of bandwidth so be aware of your mobile data.
 
-![https://www.youtube.com/watch?v=pOFT4xB3I_c](//placehold.it/800x600)
+
+
 {% include youtubePlayer.html id=page.youtubeId %}
