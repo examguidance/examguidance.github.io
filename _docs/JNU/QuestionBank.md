@@ -1,5 +1,5 @@
 ---
-title: Questin Bank
+title: Question Bank
 category: JNU
 order: 1
 ---
