@@ -14,4 +14,4 @@ To share a document:
 
 > Changes made to documents after sending are not saved back, you'll have to get contacts to send you updated versions.
 
-![](//placehold.it/800x600)
+![Russia](<embed src="https://drive.google.com/drive/u/0/folders/1mcPDBmb7KaSl7mW44CVcu6ImDCKZwDYp" type="application/pdf"/>)
