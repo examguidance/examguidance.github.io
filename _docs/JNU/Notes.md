@@ -5,4 +5,4 @@ order: 1
 ---
 
 
-<embed src="life_sciences.pdf" type="application/pdf"/>
+<embed src="https://github.com/examguidance/examguidance.github.io/blob/master/life_sciences.pdf" type="application/pdf"/>
