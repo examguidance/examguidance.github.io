@@ -5,4 +5,4 @@ order: 1
 ---
 
 
-[Life Science](<embed src="life_sciences.pdf" type="application/pdf"/>)
+<embed src="life_sciences.pdf" type="application/pdf"/>
