@@ -14,4 +14,4 @@ To share a document:
 
 > Changes made to documents after sending are not saved back, you'll have to get contacts to send you updated versions.
 
-<embed src="https://username.github.io/mydoc.pdf" type="application/pdf"/>
+[pdf]<embed src="https://username.github.io/mydoc.pdf" type="application/pdf"/>
